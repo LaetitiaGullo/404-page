@@ -1,0 +1,23 @@
+header{
+    text-align: center;
+    color: ghostwhite;
+    background-color: rgb(220, 20, 20);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+}
+
+body{
+    text-align: center;
+}
+
+button{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-color: rgb(220, 20, 20);
+    color: rgb(220, 20, 20);
+    height: 75px;
+    width: 150px;
+}
+
+a:visited {
+    color: rgb(220, 20, 20);
+}
