@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 404-page
 
 ### URL du projet :
