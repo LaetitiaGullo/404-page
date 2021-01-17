@@ -1,32 +1,27 @@
-<<<<<<< HEAD
 # 404-page
 
-### URL du projet :
+### Project URL :
 https://laetitiagullo.github.io/404-page/
 
-### Date de réalisation :
-Janvier 2020
+### Date of realization :
+Janvier 2021
 
-### Statut :
-Projet terminé
+### Status :
+Completed project
 
-### Type de projet :
-Exercice
+### Type of project :
+Exercise
 
-### Contexte :
-Projet réalisé dans le cadre de la formation "Développeur web junior" [@ BeCode](https://becode.org/)
+### Context :
+Project carried out as part of the "Junior web developer" training [@ BeCode](https://becode.org/)
 
-### Langage(s) utilisé(s) :
+### Languages :
 * HTML
 * CSS
 
-### Objectifs :
-1. Ecrire du HTML sémantique
-2. Introduction au CSS
+### Learning objectives :
+1. Write semantic HTML
+2. Understand CSS positioning
 
-### Lien des consignes :
-
-https://github.com/becodeorg/LIE-Jepsen-4.27/blob/master/01-the-field/04-html-css/01-fundamentals/04-error-404.md
-=======
-https://laetitiagullo.github.io/404-page/
->>>>>>> de58af4438571680e8a772bbd14159c1a4e5563c
+### Instructions link :
+[Click here](https://github.com/becodeorg/LIE-Jepsen-4.27/blob/master/01-the-field/04-html-css/01-fundamentals/04-error-404.md)
